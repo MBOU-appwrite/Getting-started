@@ -2,6 +2,9 @@
   "name": "getting-started",
   "version": "1.0.0",
   "dependencies": {
-    "appwrite": "7.0.0"
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "live-server"
   }
 }
