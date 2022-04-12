@@ -2,7 +2,8 @@
   "name": "getting-started",
   "version": "1.0.0",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "node-appwrite": "^5.0.0"
   },
   "scripts": {
     "start": "live-server"
